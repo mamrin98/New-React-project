@@ -5,7 +5,7 @@ import Home from './Components/Home'
 import Details from './Components/Details'
 import Create from"./Components/Create"
 
-
+// now i have modify this file 
 const App = () => {
   const{search,pathname}=useLocation();
   console.log(search,pathname)
